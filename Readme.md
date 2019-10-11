@@ -299,4 +299,4 @@ Modifier votre Jenkinsfile pour builder l'image Docker uniquement sur les branch
 Vous pouvez maintenant créer plusieurs branches features et vous apercevoir que ces branches ne se verront appliquées que les étapes de build et test.
 
 Toute cette configuration permet d'avoir un système de validation au plus près sans perdre de temps sur les feedback rapides attendus notamment dans le dev.
-This is simple
+This is sample
